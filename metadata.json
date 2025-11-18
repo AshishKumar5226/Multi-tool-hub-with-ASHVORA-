@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Multi Tool Hub with Ashvora ",
+  "description": "A responsive multi-tool website featuring 20 fully functional frontend tools, from image converters to calculators, designed with a modern and minimalistic aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
